@@ -48,3 +48,6 @@ body {
 .memory-card .front-face {
     transform: rotateY(180deg);
 }
+.memory-card .back-face {
+    cursor: pointer;
+}
